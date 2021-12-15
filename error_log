@@ -1,0 +1,1 @@
+[07-Dec-2021 04:53:40 America/New_York] PHP Warning:  Use of undefined constant e_all - assumed 'e_all' (this will throw an Error in a future version of PHP) in /home/scottjpq/public_html/fastfood/index.php on line 99
